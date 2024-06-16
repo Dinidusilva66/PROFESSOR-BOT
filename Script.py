@@ -1,13 +1,14 @@
 class script(object):  
     START_TXT = """<b>Hᴇʟʟᴏ {user} 👋🏻
 
-I'ᴍ {bot}.
+I'ᴍ {bot}. 🚀
 
-🌼 Yᴏᴜ Cᴀɴ Gᴇᴛ Aɴʏ Fɪʟᴍ Uꜱɪɴɢ Mᴇ. Sᴇɴᴅ Yᴏᴜ Wᴀɴᴛ Fɪʟᴍ Nᴀᴍᴇ Lɪᴋᴇ Tʜɪꜱ.
-<blockquote>The bad guys 2022</blockquote>
+🌼 Yᴏᴜ Cᴀɴ Gᴇᴛ Aɴʏ Lᴀɴɢᴜᴀɢᴇ Fɪʟᴍ Uꜱɪɴɢ Mᴇ. Sᴇɴᴅ Yᴏᴜ Wᴀɴᴛ Fɪʟᴍ Nᴀᴍᴇ Lɪᴋᴇ Tʜɪꜱ.
+<blockquote>Oppenheimer 2023</blockquote>
 
 Pᴏᴡᴇʀᴇᴅ Bʏ,
 <blockquote>Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ
+
 @SilvaMovieZone™ 
 @SilvaFilmZone™ 🇱🇰</blockquote></b>"""
     
@@ -22,6 +23,7 @@ Pᴏᴡᴇʀᴇᴅ Bʏ,
 🔗 Fɪʟᴍ Cʜᴀɴɴᴇʟ: @SilvaFilmZone
 
 <blockquote>Mʀ.Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ
+
 @SilvaMovieZone™ 
 @SilvaFilmZone™ 🇱🇰</blockquote></b>"""
    
