@@ -89,7 +89,7 @@ async def start(client, message):
             ],[
             InlineKeyboardButton("☘️ Fɪʟᴍ Cʜᴀɴɴᴇʟ", url="http://t.me/SilvaFilmZone")
             ],[
-            InlineKeyboardButton("🌼 Fɪʟᴍ Gʀᴏᴜᴘ", url="http://t.me/SilvaMovieZone")
+            InlineKeyboardButton("🌼 Fɪʟᴍ Gʀᴏᴜᴘ", url="http://t.me/SinhalaSubMovies")
         ]]
         m = await message.reply_sticker("CAACAgUAAxkBAAEMUr1mbpADDpwMsv1PHH71lQQw5fv72AACBg4AArAScFemlUNy8rZk9jUE")
         await asyncio.sleep(2)
