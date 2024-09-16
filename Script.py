@@ -3,38 +3,34 @@ class script(object):
 
 I'ᴍ {bot}.
 
-🚀 Yᴏᴜ Cᴀɴ Gᴇᴛ Aɴʏ Lᴀɴɢᴜᴀɢᴇ Fɪʟᴍ Uꜱɪɴɢ Mᴇ. Sᴇɴᴅ Yᴏᴜ Wᴀɴᴛ Fɪʟᴍ Nᴀᴍᴇ Lɪᴋᴇ Tʜɪꜱ.
+🚀 Yᴏᴜ Cᴀɴ Gᴇᴛ Aɴʏ Fɪʟᴍ Uꜱɪɴɢ Mᴇ. Sᴇɴᴅ Yᴏᴜ Wᴀɴᴛ Fɪʟᴍ Nᴀᴍᴇ Lɪᴋᴇ Tʜɪꜱ.
 <blockquote>Oppenheimer 2023</blockquote>
 
 Pᴏᴡᴇʀᴇᴅ Bʏ,
-<blockquote>Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ
-
-@SilvaMovieZone™ 
-@SilvaFilmZone™ 🇱🇰</blockquote></b>"""
+<blockquote>Mr.දිනිදු සිල්වා | Buddy</blockquote></b>"""
     
-    HELP_TXT = "<b>Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ</b>"
+    HELP_TXT = """<b>Hᴇʏ {} Hᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ,
+
+Pᴏᴡᴇʀᴇᴅ Bʏ,
+<blockquote>Mr.දිනිදු සිල්වා | Buddy</blockquote></b>"""
 
     ABOUT_TXT = """<b>✦ Mʏ ɴᴀᴍᴇ: {}
-✦ Oᴡɴᴇʀ: <a herf=https://t.me/DiniduSilva>Mʀ.Pʀɪᴍᴇ සිල්වා</a>
+✦ Oᴡɴᴇʀ: <a herf=https://t.me/DiniduSilva>Mʀ.දිනිදු සිල්වා</a>
+✦ Lᴀɴɢᴜᴀɢᴇ : <a herf=https://python.org>Python</a>
 
-🪽 Jᴏɪɴ Nᴏᴡ
+📥 Jᴏɪɴ Nᴏᴡ
 
-🔗 Fɪʟᴍ Group: @SilvaMovieZone
-🔗 Fɪʟᴍ Cʜᴀɴɴᴇʟ: @SilvaFilmZone
+🔗 Fɪʟᴍ Cʜᴀɴɴᴇʟ: @SinhalaSubMovies
 
-<blockquote>Mʀ.Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ
-
-@SilvaMovieZone™ 
-@SilvaFilmZone™ 🇱🇰</blockquote></b>"""
+Pᴏᴡᴇʀᴇᴅ Bʏ,
+<blockquote>Mr.දිනිදු සිල්වා | Buddy</blockquote></b>"""
    
     SOURCE_TXT = """<b>Bᴏᴛ Oᴡɴᴇʀ
 
-🔗 Tᴇʟᴇɢʀᴀᴍ Nᴀᴍᴇ: <a herf=https://t.me/DiniduSilva>Mʀ.Pʀɪᴍᴇ සිල්වා</a>
+🔗 Tᴇʟᴇɢʀᴀᴍ Nᴀᴍᴇ: <a herf=https://t.me/DiniduSilva>Mʀ.දිනිදු සිල්වා</a>
 🔗 Tᴇʟᴇɢʀᴀᴍ Uꜱᴇʀ Nᴀᴍᴇ: @DiniduSilva</b>
 
-<b><blockquote>Mʀ.Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ
-@SilvaMovieZone™ 
-@SilvaFilmZone™ 🇱🇰</blockquote></b>"""
+<b><blockquote>Mʀ.දිනිදු සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ</blockquote></b>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
