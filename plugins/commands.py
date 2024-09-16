@@ -51,7 +51,7 @@ async def start(client, message):
             ],[
             InlineKeyboardButton("🌼 Fɪʟᴍ Gʀᴏᴜᴘ", url="http://t.me/SinhalaSubMovies")
         ]]
-        m = await message.reply_sticker("CAACAgUAAxkBAAEMUr1mbpADDpwMsv1PHH71lQQw5fv72AACBg4AArAScFemlUNy8rZk9jUE") 
+        m = await message.reply_sticker("CAACAgUAAxkBAAEM0Tpm6DUH_vS64bsfRe9BNEFnct2lPwACBw8AAoQvQFeJvk7z7hzuazYE") 
         await asyncio.sleep(2)
         await message.reply_photo(photo=random.choice(PICS), caption=START_MESSAGE.format(user=message.from_user.mention, bot=client.mention), reply_markup=InlineKeyboardMarkup(buttons), parse_mode=enums.ParseMode.HTML)
         return await m.delete()
@@ -91,7 +91,7 @@ async def start(client, message):
             ],[
             InlineKeyboardButton("🌼 Fɪʟᴍ Gʀᴏᴜᴘ", url="http://t.me/SinhalaSubMovies")
         ]]
-        m = await message.reply_sticker("CAACAgUAAxkBAAEMUr1mbpADDpwMsv1PHH71lQQw5fv72AACBg4AArAScFemlUNy8rZk9jUE")
+        m = await message.reply_sticker("CAACAgUAAxkBAAEM0Tpm6DUH_vS64bsfRe9BNEFnct2lPwACBw8AAoQvQFeJvk7z7hzuazYE")
         await asyncio.sleep(2)
         await message.reply_photo(photo=random.choice(PICS), caption=START_MESSAGE.format(user=message.from_user.mention, bot=client.mention), reply_markup=InlineKeyboardMarkup(buttons), parse_mode=enums.ParseMode.HTML)
         return await m.delete()
