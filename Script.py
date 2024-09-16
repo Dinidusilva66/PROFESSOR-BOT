@@ -3,7 +3,7 @@ class script(object):
 
 I'ᴍ {bot}.
 
-🚀 Yᴏᴜ Cᴀɴ Gᴇᴛ Aɴʏ Fɪʟᴍ Uꜱɪɴɢ Mᴇ. Sᴇɴᴅ Yᴏᴜ Wᴀɴᴛ Fɪʟᴍ Nᴀᴍᴇ Lɪᴋᴇ Tʜɪꜱ.
+🌼 Yᴏᴜ Cᴀɴ Gᴇᴛ Aɴʏ Fɪʟᴍ Uꜱɪɴɢ Mᴇ. Sᴇɴᴅ Yᴏᴜ Wᴀɴᴛ Fɪʟᴍ Nᴀᴍᴇ Lɪᴋᴇ Tʜɪꜱ.
 <blockquote>Oppenheimer 2023</blockquote>
 
 Pᴏᴡᴇʀᴇᴅ Bʏ,
@@ -147,9 +147,7 @@ Tʜɪs Mᴏᴅᴜʟᴇ Oɴʟʏ Wᴏʀᴋs Fᴏʀ Mʏ Aᴅᴍɪɴs
 ◉ ꜰᴇᴇᴇ ᴅʙ ꜱɪᴢᴇ: <code>{}</code>
 
 Pᴏᴡᴇʀᴇᴅ Bʏ,
-<blockquote>Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ
-@SilvaMovieZone™ 
-@SilvaFilmZone™ 🇱🇰</blockquote></b>"""
+<blockquote>Mr.දිනිදු සිල්වා | Buddy</blockquote></b>"""
 
     LOG_TEXT_G = """<b>#ɴᴇᴡ_ɢʀᴏᴜᴩ
 
@@ -159,7 +157,10 @@ Pᴏᴡᴇʀᴇᴅ Bʏ,
 ◉ ᴍᴇᴍʙᴇʀꜱ: <code>{d}</code>
 ◉ ᴀᴅᴅᴇᴅ ʙʏ: {e}
 
-◉ ʙʏ: @{f}</b>"""
+◉ ʙʏ: @{f}
+
+Pᴏᴡᴇʀᴇᴅ Bʏ,
+<blockquote>Mr.දිනිදු සිල්වා | Buddy</blockquote></b>"""
   
     LOG_TEXT_P = """#ɴᴇᴡ_ᴜꜱᴇʀ
     
@@ -167,7 +168,10 @@ Pᴏᴡᴇʀᴇᴅ Bʏ,
 ◉ ᴀᴄᴄ-ɴᴀᴍᴇ: {}
 ◉ ᴜꜱᴇʀɴᴀᴍᴇ: @{}
 
-◉ ʙʏ: @{}</b>"""
+◉ ʙʏ: @{}
+
+Pᴏᴡᴇʀᴇᴅ Bʏ,
+<blockquote>Mr.දිනිදු සිල්වා | Buddy</blockquote></b>"""
   
     GROUPMANAGER_TXT = """<b>Hᴇʟᴩ Fᴏʀ GʀᴏᴜᴩMᴀɴᴀɢᴇʀ</b>
 
@@ -231,13 +235,21 @@ Fʀᴇᴇ Dɪꜱᴋ: {}"""
     
     BUTTON_LOCK_TEXT = "Hᴇʏ {query}\nTʜɪꜱ Iꜱ Nᴏᴛ Fᴏʀ Yᴏᴜ. Sᴇᴀʀᴄʜ Yᴏᴜʀ Sᴇʟꜰ"
    
-    FORCE_SUB_TEXT = "Sᴏʀʀʏ Bʀᴏ Yᴏᴜʀ Nᴏᴛ Jᴏɪɴᴇᴅ Mʏ Cʜᴀɴɴᴇʟ Sᴏ Pʟᴇᴀsᴇ Cʟɪᴄᴋ Jᴏɪɴ Bᴜᴛᴛᴏɴ Tᴏ Jᴏɪɴ Mʏ Cʜᴀɴɴᴇʟ Aɴᴅ Tʀʏ Aɢᴀɪɴ"
+    FORCE_SUB_TEXT = """<b>❝ Sᴏʀʀʏ Bʀᴏ Yᴏᴜʀ Nᴏᴛ Jᴏɪɴᴇᴅ Mʏ Cʜᴀɴɴᴇʟ Sᴏ Pʟᴇᴀsᴇ Cʟɪᴄᴋ Jᴏɪɴ Bᴜᴛᴛᴏɴ Tᴏ Jᴏɪɴ Mʏ Cʜᴀɴɴᴇʟ Aɴᴅ Tʀʏ Aɢᴀɪɴ. ❞
+
+❝ ඔයා අපේ චැනල් එකට Join වෙලා නෑ. යට Join Button එක Click කරලා Join වෙලා නැවත උත්සහා කරන්න. ❞
+
+Pᴏᴡᴇʀᴇᴅ Bʏ,
+<blockquote>Mr.දිනිදු සිල්වා | Buddy</blockquote></b>"""
    
-    WELCOM_TEXT = """Hᴇʏ {user} 💞
+    WELCOM_TEXT = """<b>Hᴇʏ {user} 💞
 
 Wᴇʟᴄᴏᴍᴇ ᴛᴏ {chat}.
 
-ꜱʜᴀʀᴇ & ꜱᴜᴩᴩᴏʀᴛ, ʀᴇqᴜᴇꜱᴛ ʏᴏᴜ ᴡᴀɴᴛᴇᴅ ᴍᴏᴠɪᴇꜱ"""
+🌼 Like කරන්න Share කරන්න Movies Requeat ඔහොමනම් බෑ.
+
+Pᴏᴡᴇʀᴇᴅ Bʏ,
+<blockquote>Mr.දිනිදු සිල්වා | Buddy</blockquote></b>"""
   
     IMDB_TEMPLATE = """<b>🏷 Tɪᴛʟᴇ : <a href={url}>{title}</a> | <a href={url}/releaseinfo>{year}</a></b>
 
