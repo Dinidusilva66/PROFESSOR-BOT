@@ -23,9 +23,9 @@ async def start(client, message):
             ],[
             InlineKeyboardButton("⭕ Bᴏᴛ Oᴡɴᴇʀ", url="http://t.me/DiniduSilva")
             ],[
-            InlineKeyboardButton("☘️ Fɪʟᴍ Cʜᴀɴɴᴇʟ", url="http://t.me/SilvaFilmZone")
+            InlineKeyboardButton("☘️ Fɪʟᴍ Cʜᴀɴɴᴇʟ", url="http://t.me/Sinhalasubmovies")
             ],[
-            InlineKeyboardButton("🌼 Fɪʟᴍ Gʀᴏᴜᴘ", url="http://t.me/SinhalaSubMovies")
+            InlineKeyboardButton("🌼 Fɪʟᴍ Gʀᴏᴜᴘ", url="http://t.me/Silvamoviezone")
         ]]
         await message.reply(START_MESSAGE.format(user=message.from_user.mention if message.from_user else message.chat.title, bot=client.mention), reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)                    
         await asyncio.sleep(2) 
@@ -47,9 +47,9 @@ async def start(client, message):
             InlineKeyboardButton("📚 Hᴇʟᴩ", callback_data="help"),
             InlineKeyboardButton("🌸 Aʙᴏᴜᴛ", callback_data="about")
             ],[
-            InlineKeyboardButton("☘️ Fɪʟᴍ Cʜᴀɴɴᴇʟ", url="http://t.me/SilvaFilmZone")
+            InlineKeyboardButton("☘️ Fɪʟᴍ Cʜᴀɴɴᴇʟ", url="http://t.me/Sinhalasubmovies")
             ],[
-            InlineKeyboardButton("🌼 Fɪʟᴍ Gʀᴏᴜᴘ", url="http://t.me/SinhalaSubMovies")
+            InlineKeyboardButton("🌼 Fɪʟᴍ Gʀᴏᴜᴘ", url="http://t.me/Silvamovieszone")
         ]]
         m = await message.reply_sticker("CAACAgUAAxkBAAEM0Tpm6DUH_vS64bsfRe9BNEFnct2lPwACBw8AAoQvQFeJvk7z7hzuazYE") 
         await asyncio.sleep(2)
@@ -87,9 +87,9 @@ async def start(client, message):
             InlineKeyboardButton("📚 Hᴇʟᴩ", callback_data="help"),
             InlineKeyboardButton("🌸 Aʙᴏᴜᴛ", callback_data="about")
             ],[
-            InlineKeyboardButton("☘️ Fɪʟᴍ Cʜᴀɴɴᴇʟ", url="http://t.me/SilvaFilmZone")
+            InlineKeyboardButton("☘️ Fɪʟᴍ Cʜᴀɴɴᴇʟ", url="http://t.me/Sinhalasubmovies")
             ],[
-            InlineKeyboardButton("🌼 Fɪʟᴍ Gʀᴏᴜᴘ", url="http://t.me/SinhalaSubMovies")
+            InlineKeyboardButton("🌼 Fɪʟᴍ Gʀᴏᴜᴘ", url="http://t.me/SilvaMovieZone")
         ]]
         m = await message.reply_sticker("CAACAgUAAxkBAAEM0Tpm6DUH_vS64bsfRe9BNEFnct2lPwACBw8AAoQvQFeJvk7z7hzuazYE")
         await asyncio.sleep(2)
